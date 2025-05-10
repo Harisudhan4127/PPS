@@ -1,0 +1,12 @@
+print('============================================================================================')
+cars = ('BMW', 'Honda', 'Audi', 'Mercedes', 'Honda', 'Toyota', 'Ferrari', 'Tesla') 
+print('Approach #1 = ', cars) 
+print('============================================================================================')
+print('Approach #2') 
+for car in cars: 
+    print('Car name = {}'.format(car)) 
+print('============================================================================================')
+cars.add('Tata') 
+print('New cars set = {}'.format(cars)) 
+cars.discard('Mercedes')
+print('discard() Method = {}'.format(cars))

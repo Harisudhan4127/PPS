@@ -1,0 +1,85 @@
+History of the Python Programming Language
+
+Origins (Late 1980s - Early 1990s)
+
+Creator: Guido van Rossum
+
+Started: December 1989, at the Centrum Wiskunde & Informatica (CWI) in the Netherlands
+
+Goal: To create a language that was easy to read and write, with fewer lines of code and a clean syntax. It was intended as a successor to the ABC language.
+
+Fun Fact: The name "Python" comes from the British comedy group "Monty Python," not the snake.
+
+Python 1.x Series (1991 - 2000)
+
+Python 1.0 released in February 1991
+
+Key features:
+
+Exception handling
+
+Functions
+
+Core data types (str, list, dict)
+
+Modules
+
+Early adopters appreciated its simplicity and the way it combined elements of other languages like C, Modula-3, and ABC.
+
+Python 2.x Series (2000 - 2010s)
+
+Python 2.0 released in October 2000
+
+Major features added:
+
+List comprehensions
+
+Garbage collection via reference counting
+
+Partial Unicode support
+
+Python 2.7, released in 2010, became the final version of the 2.x series and was supported until January 1, 2020.
+
+Issue: Incompatibility between Python 2 and Python 3 created a divide in the community.
+
+Python 3.x Series (2008 - Present)
+
+Python 3.0 released in December 2008
+
+Key changes:
+
+Improved Unicode support (everything is Unicode by default)
+
+print became a function (print())
+
+Integer division changed
+
+Enhanced iterator behavior
+
+Adoption was initially slow due to incompatibility, but Python 3 eventually became the standard.
+
+Rise in Popularity (2010s - Present)
+
+Python became one of the most popular languages worldwide due to:
+
+Simplicity and readability
+
+Powerful libraries for web development, automation, data science, machine learning, and AI (e.g., NumPy, pandas, TensorFlow, PyTorch)
+
+Strong community support
+
+Extensive use in academia, education, and startups
+
+Present and Future
+
+Latest major version: Python 3.12 (released October 2023)
+
+Ongoing improvements:
+
+Performance enhancements through the "Faster CPython" project
+
+Better error messages
+
+Advanced typing features
+
+Guido van Rossum stepped down as BDFL (Benevolent Dictator for Life) in 2018 but remains active in the Python community.text.txt
